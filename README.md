@@ -1,3 +1,6 @@
+Pokemon XP tool
+@author : Zandejn
+
 It works by using the daycare functionnality of each game and automatize our character's walk left and right
 to gain XP, it auto-saves the game after each session
 
